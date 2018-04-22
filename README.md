@@ -5,6 +5,9 @@ PPT and PDF files of this talk can be downloaded from [the release channel](http
 Dissertation (about 350 pages) can be downloaded from the [PhD_thesis repo](https://github.com/i2000s/PhD_Thesis/releases), which only has a pre-release version for now. 
 The final version of the dissertation will be uploaded in the middle of May. 
 
+The video record of the talk can be found on [Youku](http://v.youku.com/v_show/id_XMzU1MTg3Mzk0OA==.html).
+A Youtube video mirror is expected to be created by the Physics and Astronomy Department of UNM in a later time. 
+
 ## To cite: 
 
 [![DOI](https://zenodo.org/badge/91208437.svg)](https://zenodo.org/badge/latestdoi/91208437)
